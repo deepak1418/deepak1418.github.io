@@ -5,9 +5,9 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "homepage": "https://github.com/deepak1418/Personal-Website#readme",
+    "homepage": "https://github.com/deepak1418/deepak1418.github.io.git#readme",
 
-    "bugs": { "url" : "https://github.com/deepak1418/Personal-Website/issues"
+    "bugs": { "url" : "https://github.com/deepak1418/deepak1418.github.io.git/issues"
      , "email" : "deepakjd44@yahoo.com"
     },
     "description": "Actively looking for job change",
@@ -34,7 +34,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/deepak1418/Personal-Website.git"
+        "url": "https://github.com/deepak1418/deepak1418.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
